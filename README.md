@@ -9,7 +9,7 @@ This project was undertaken in  R (ver 4.0.1) and has not been updated to curren
 # Files
 
 I provide four data files: 
-* *Gathered Scoring Data.xlsx* Contains microsatellite data of all nests sequenced
-* *Bee Weights.csv* Contains all weights from male and female bees collected in 2020
-* *Foraging_trips_perday.csv* Contains data formatted for analysis of worker foraging
-* *Foraging_trips_Prod.csv* Contains data formatted for analysis of offspring production
+* *Gathered Scoring Data.xlsx* is the microsatellite data of all nests sequenced
+* *Bee Weights.csv* is the weights from all male and female bees collected in 2020
+* *Foraging_trips_perday.csv* has data formatted for analysis of worker foraging
+* *Foraging_trips_Prod.csv* has data formatted for analysis of offspring production
